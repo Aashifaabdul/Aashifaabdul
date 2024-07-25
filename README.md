@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **aashifaabdul13@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/aashi/OneDrive/Desktop/resume/Aashifa%20resume.pdf](file:///C:/Users/aashi/OneDrive/Desktop/resume/Aashifa%20resume.pdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aashifa parveen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashifa parveen" height="30" width="40" /></a>
