@@ -1,19 +1,38 @@
-<h1 align="center">Hi 👋, I'm Aashifa</h1>
-<div align="center"> <img src ="![image](https://github.com/user-attachments/assets/0f84a474-1c4c-473b-94b7-bd851c44ab41)"></div>
-<h3 align="center">A passionate Machine Learning Dilettante from India</h3>
-<img align="right" alt="Coding" width="400" src="https://userimages.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
+<h1 align="center">Hi , I'm Aashifa Parveen</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aashifaabdul&label=Profile%20views&color=0e75b6&style=flat" alt="aashifaabdul" /> </p>
+<h3 align="center">
+  AI & Data Science Enthusiast | Machine Learning Engineer in Progress |  Building Real-World AI Solutions
+</h3>
 
-- 🔭 I’m currently working on **GEN-AI**
+<p align="center">
+Passionate about merging <b>AI with real-world impact</b>.
+I love turning ideas into deployed models and research into working solutions.
+</p>
 
-- 🌱 I’m currently learning **LLM**
-- 
-- 📝 I regularly write articles on [https://medium.com/@aashabdul13](https://medium.com/@thinkai80)
+<br>
 
-- 💬 Ask me about **python,AI**
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="450" alt="coding gif"/>
+</p>
 
-- 📫 How to reach me **aashifaabdul13@gmail.com**
+
+
+<h2 align="left"> What I Do</h2>
+<ul>
+  <li>Machine Learning & Deep Learning</li>
+  <li>Computer Vision & Object Detection</li>
+  <li>Model Training & Optimization</li>
+  <li>Building AI systems with real-world impact</li>
+</ul>
+
+
+
+<h2 align="left"> Current Focus</h2> 
+   <li>Leveling up in Advanced ML, System Design, and Production AI  Exploring the intersection of <b>Biology + Artificial Intelligence</b></li>
+
+- I regularly write articles on [https://medium.com/@aashabdul13](https://medium.com/@thinkai80)
+
+- How to reach me **aashifaabdul13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
