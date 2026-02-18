@@ -33,7 +33,7 @@ Focused on computer vision, model optimisation, and scalable AI solutions.
 </ul>
 
 
-- I regularly write articles on [https://medium.com/@aashabdul13](https://medium.com/@thinkai80)
+- I regularly write articles on [ThinkAI](https://medium.com/@thinkai80)
 - Email: aashifaabdul13@gmail.com  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
