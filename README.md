@@ -1,45 +1,44 @@
+
 <h1 align="center">Hi , I'm Aashifa Parveen</h1>
 
 <h3 align="center">
-  AI & Data Science Enthusiast | Machine Learning Engineer in Progress |  Building Real-World AI Solutions
+Machine Learning Engineer | AI & Data Science Graduate
 </h3>
-
-<p align="center">
-Passionate about merging <b>AI with real-world impact</b>.
-I love turning ideas into deployed models and research into working solutions.
-</p>
-
-<br>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="450" alt="coding gif"/>
 </p>
 
+<p align="center">
+I design and build machine learning systems that move beyond notebooks and into real-world deployment.  
+Focused on computer vision, model optimisation, and scalable AI solutions.
+</p>
 
+---
 
-<h2 align="left"> What I Do</h2>
+<h2>Professional Summary</h2>
+
 <ul>
-  <li>Machine Learning & Deep Learning</li>
-  <li>Computer Vision & Object Detection</li>
-  <li>Model Training & Optimization</li>
-  <li>Building AI systems with real-world impact</li>
+<li>Experience in building end-to-end ML pipelines from data collection to deployment</li>
+<li>Strong focus on Computer Vision and Object Detection systems</li>
+<li>Hands-on with model training, evaluation, and performance optimisation</li>
+<li>Interested in Production AI, MLOps, and scalable system design</li>
+</ul>
+
+<h2>Current Focus</h2>
+<ul>
+<li>Advanced Machine Learning & Model Optimisation</li>
+<li>System Design for AI Applications</li>
+<li>Production-ready ML & Deployment Practices</li>
+<li>Exploring AI applications </li>
 </ul>
 
 
-
-<h2 align="left"> Current Focus</h2> 
-   <li>Leveling up in Advanced ML, System Design, and Production AI  Exploring the intersection of <b>Biology + Artificial Intelligence</b></li>
-
 - I regularly write articles on [https://medium.com/@aashabdul13](https://medium.com/@thinkai80)
-
-- How to reach me **aashifaabdul13@gmail.com**
-
+- Email: aashifaabdul13@gmail.com  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aashifa parveen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashifa parveen" height="30" width="40" /></a>
 <a href="https://kaggle.com/aashifaparveen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aashifaparveen" height="30" width="40" /></a>
-<a href="https://instagram.com/girlmoonwalker13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="girlmoonwalker13" height="30" width="40" /></a>
-<a href="https://medium.com/@aashabdul13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aashabdul13" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
